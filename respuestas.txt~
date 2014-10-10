@@ -1,0 +1,4 @@
+Cuando lo ejecutamos con irb ademas de ejecutarlo (y por tanto mostrarnos en pantalla el Holla Mundo) también nos muestra 
+=> nil
+
+ademas del código del propio programa puts "Hello World", con la llamada ruby sólo se ejecuta.
