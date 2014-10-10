@@ -1,3 +1,5 @@
 Cuando lo ejecutamos con irb ademas de ejecutarlo (y por tanto mostrarnos en pantalla el Holla Mundo) también nos muestra: 
 => nil
 ademas del código del propio programa puts "Hello World", con la llamada ruby sólo se ejecuta.
+
+Pry nos permite no sólo ejecutar nuestro código sino también irlo modificando (por ejemplo añadimos la definición de hello o cambiamos el valor de la variable x) en tiempo de ejecución. Además nos permite consultar en tiempo de ejecución los valores de las variables...
